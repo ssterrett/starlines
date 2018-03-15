@@ -1,4 +1,4 @@
-numpy
-matplotlib
-math
-ipywidgets
+numpy == 1.7
+matplotlib == 2.1
+ipywidgets == 7.0
+math == 2.7
